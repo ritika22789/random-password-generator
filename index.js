@@ -46,4 +46,4 @@ const password = generatePassword(
   includeNumbers,
   includeSymbols
 );
-console.log(`Generated password: ${password}`);
+console.log(`password generator: ${password}`);
